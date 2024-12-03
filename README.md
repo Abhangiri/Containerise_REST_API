@@ -18,4 +18,7 @@ This project is a basic Flask-based API for managing student data. It is contain
    ```bash
    git clone https://github.com/Abhangiri/Containerise_REST_API.git
    cd Containerise_REST_API
-   
+
+
+   make run
+   make delete
